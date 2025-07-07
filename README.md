@@ -20,7 +20,11 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
+## Sample logins
+email: mdnmbugua@gmail.com
+Password: 1234578890
 
+[Pitch deck](../../Downloads/Church_Contribution_Pitch_Deck.pptx)
 ## What technologies are used for this project?
 
 This project is built with:
